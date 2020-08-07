@@ -2,7 +2,7 @@
 
 ### Contents
 
-This repository contains some elements of the work I carried out during the development of my BSc Thesis at the National Autonomous University of Mexico (UNAM). Specifically, in this repository you can fin:
+This repository contains some elements of the work I carried out during the development of my BSc Thesis at the National Autonomous University of Mexico (UNAM), which was supervised by [Prof. Begoña Fernández Fernández](https://scholar.google.com.mx/citations?hl=en&user=EI78r4cAAAAJ&view_op=list_works). Specifically, in this repository you can find:
 - Sample codes of the programming I did to estimate and backtest conditional Value-at-Risk and Expected Shortfall on Mexican financial time series at very high confidence levels.
 - Sample of the data I used for this research, which is freely available at the Central Bank of Mexico's webpage:
   - For the USD/MXN exchange rate, [here](https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=6&accion=consultarCuadro&idCuadro=CF102&locale=es).
